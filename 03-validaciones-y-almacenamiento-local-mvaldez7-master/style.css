@@ -1,0 +1,7 @@
+.jumbotron{
+    background-color: #40e9d2;
+}
+input:hover {
+    background-color:rgba(57, 205, 231, 0.788);
+    color: white;
+}
